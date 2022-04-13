@@ -1,0 +1,1 @@
+https://www.dustin.se/solutions/kunskapsbanken/archive/guide-till-smarta-hem-och-kontor
