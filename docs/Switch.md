@@ -1,0 +1,5 @@
+- Switch (switch) är ett annat ord för dataväxel, en anordning som kopplar trafik i ett nätverk. 
+- [[Nätverk]]sswitchar är en vanlig typ av switch. 
+- En switch fungerar i alla fall lite som en telefonväxel fast för datakommunikation. 
+- Den ser till att rätt kommunikation kommer till rätt plats genom att läsa adressinformationen på inkommande meddelanden och koppla vidare meddelandena till rätt mottagare. 
+- Switchar eller dataväxlar är en form av [[hårdvara]] med en relativt enkel funktion som gör dem snabba.

@@ -1,0 +1,2 @@
+- https://www.anandtech.com/show/9799/best-ssds
+- [[Hårdvara]]

@@ -1,0 +1,2 @@
+- https://www.pugetsystems.com/recommended/Recommended-Systems-for-SOLIDWORKS-150
+- [[mjukvara]]
